@@ -1,2 +1,6 @@
 flask
 elastic-apm[flask]
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-{exporter}
+opentelemetry-instrumentation-{instrumentation}
